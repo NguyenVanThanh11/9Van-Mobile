@@ -1,0 +1,22 @@
+.featuredIcon.featuredIcon {
+  left: -2px;
+  top: -2px;
+}
+.uploadCloud2.uploadCloud2 {
+  z-index: 0;
+  left: 8px;
+  top: 8px;
+  width: 16px;
+  height: 16px;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.root {
+  position: relative;
+  width: 28px;
+  height: 28px;
+  flex-direction: column;
+  align-items: flex-start;
+}

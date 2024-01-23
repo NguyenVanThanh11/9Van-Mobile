@@ -1,0 +1,353 @@
+.component3.component3 {
+  position: absolute;
+  left: 17px;
+  top: 433px;
+  width: 356px;
+}
+.oPhanMoBaiBaiVanANeuHienTuongT {
+  color: #98a2b3;
+  font-size: 10px;
+  line-height: 20px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 2.0408%;
+  right: 2.0408%;
+  top: 0;
+  bottom: -1.9608%;
+  flex-direction: column;
+}
+.oPhanMoBaiBaiVanANeuHienTuongT2 {
+  color: #98a2b3;
+  font-size: 10px;
+  line-height: 20px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 2.0408%;
+  right: 2.0408%;
+  top: 0;
+  bottom: -1.9608%;
+  flex-direction: column;
+}
+.oPhanMoBaiBaiVanANeuHienTuongT3 {
+  color: #98a2b3;
+  font-size: 10px;
+  line-height: 20px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 2.0408%;
+  right: 2.0408%;
+  top: 0;
+  bottom: -1.9608%;
+  flex-direction: column;
+}
+.oPhanMoBaiBaiVanANeuHienTuongT4 {
+  color: #98a2b3;
+  font-size: 10px;
+  line-height: 20px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 2.0408%;
+  right: 2.0408%;
+  top: 0;
+  bottom: -1.9608%;
+  flex-direction: column;
+}
+.inputDropdown.inputDropdown {
+  left: 17px;
+  top: 186px;
+  width: 342px;
+}
+.inputDropdown2.inputDropdown2 {
+  left: 12px;
+  top: 195px;
+  width: 359px;
+}
+.text {
+  color: #98a2b3;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.textareaInputField.textareaInputField {
+  left: 12px;
+  top: 265px;
+  width: 359px;
+  height: 121px;
+  align-items: flex-start;
+}
+.inputWithLabel.inputWithLabel {
+  height: 154px;
+  flex: initial;
+}
+.label {
+  color: #344054;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 500;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.text2 {
+  color: #98a2b3;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex: 1;
+  align-self: stretch;
+  flex-direction: column;
+}
+.button.button {
+  left: 14px;
+  top: 757px;
+  width: 357px;
+  height: 40px;
+  background-color: #4e5ba6;
+}
+.text3 {
+  color: #fff;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._ButtonGroupBase._ButtonGroupBase {
+  left: 15px;
+  top: 50px;
+  height: 42px;
+  align-items: center;
+  border-radius: 30px;
+  box-shadow: initial;
+}
+.arrowLeft.arrowLeft {
+  width: 20px;
+  height: 20px;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.root {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #fdfdfd;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+.line16 {
+  position: absolute;
+  left: 0;
+  top: 298px;
+  width: 390px;
+  max-width: 100%;
+  height: 0;
+  max-height: 100%;
+}
+.barsStatusBarIPhoneLight {
+  position: absolute;
+  left: 1px;
+  right: 0;
+  top: 1px;
+  height: 44px;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #fff;
+}
+.rectangle29 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 390px;
+  height: 44px;
+  background-color: #fff;
+  box-shadow: 0px 1px 2px 0px #00000017;
+}
+.battery {
+  position: absolute;
+  left: 348.8898px;
+  top: 17.3333px;
+  width: 25.2363px;
+  height: 11.3333px;
+  overflow: visible;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.wifi {
+  position: absolute;
+  left: 327.7973px;
+  top: 17.3307px;
+  width: 15.9057px;
+  height: 11px;
+  overflow: visible;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.cellularConnection {
+  position: absolute;
+  left: 304.976px;
+  top: 17.6667px;
+  width: 17.6347px;
+  height: 10.6667px;
+  overflow: visible;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.timeStyle {
+  position: absolute;
+  left: 2.0513%;
+  right: 83.5487%;
+  top: 15.9091%;
+  bottom: 36.3636%;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.time {
+  color: #000;
+  font-size: 15px;
+  line-height: 20px;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.24px;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: calc(50% - -5.5px);
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+  transform: translateY(-50%);
+}
+.inputField {
+  position: absolute;
+  left: 12px;
+  top: 104px;
+  width: 359px;
+  height: min-content;
+  flex-direction: column;
+}
+.inputWithLabel2 {
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 6px;
+}
+.label2 {
+  color: #344054;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 500;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.input {
+  height: min-content;
+  align-self: stretch;
+  padding: 10px 14px;
+  outline: solid 1px #d0d5dd;
+  outline-offset: -1px;
+  border-radius: 8px;
+  background-color: #fff;
+  overflow: hidden;
+  box-shadow: 0px 1px 2px 0px #1018280d;
+}
+.content {
+  height: min-content;
+  flex: 1;
+  align-self: flex-start;
+}
+.text4 {
+  color: #667085;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+}
+.barsHomeIndicatorIPhoneLightPo {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 34px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.rectangle30 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 390px;
+  height: 34px;
+  background-color: #fdfdfd;
+}
+.homeIndicator {
+  position: absolute;
+  left: 50%;
+  bottom: 8px;
+  width: 134px;
+  height: 5px;
+  border-radius: 100px;
+  background-color: #181818;
+  transform: translateX(-50%);
+}
+.rectangle32 {
+  position: absolute;
+  left: calc(50% - -0.5px);
+  top: 44px;
+  width: 391px;
+  height: 54px;
+  background-color: #fdfdfd;
+  box-shadow: 0px 1px 2px 0px #00000017;
+  transform: translateX(-50%);
+}
+.taoBaiMoi {
+  color: #181818;
+  font-size: 14px;
+  line-height: 24px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: calc(50% - 95px);
+  top: 59px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: translateX(-50%);
+}

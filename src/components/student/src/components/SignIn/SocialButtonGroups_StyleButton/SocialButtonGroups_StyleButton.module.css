@@ -1,0 +1,22 @@
+.socialButton.socialButton {
+  width: initial;
+  align-self: stretch;
+}
+.socialButton2.socialButton2 {
+  width: initial;
+  align-self: stretch;
+}
+.socialButton3.socialButton3 {
+  width: initial;
+  align-self: stretch;
+}
+.root {
+  position: absolute;
+  left: 16px;
+  top: 236px;
+  width: 360px;
+  height: min-content;
+  flex-direction: column;
+  justify-content: center;
+  gap: 12px;
+}

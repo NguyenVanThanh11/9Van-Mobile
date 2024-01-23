@@ -1,0 +1,121 @@
+.socialButtonGroups.socialButtonGroups {
+  left: 12px;
+  top: 0;
+  width: 365px;
+  height: 196px;
+}
+.text {
+  color: #344054;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.text2 {
+  color: #344054;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.text3 {
+  color: #344054;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._9Van2._9Van2 {
+  position: absolute;
+  left: 150px;
+  top: 229px;
+}
+._9Van {
+  color: #fff;
+  font-size: 35px;
+  line-height: 28px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.root {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #4e5ba6;
+  overflow: hidden;
+}
+.frame1 {
+  position: absolute;
+  left: 0;
+  top: 477px;
+  width: 390px;
+  height: 393px;
+  flex-direction: column;
+  border-radius: 15px;
+  background-color: #fff;
+  overflow: hidden;
+}
+.bangCachNhapVaoAngKyAngNhapVoi {
+  opacity: 0.67;
+  position: absolute;
+  left: calc(50% - 0.5px);
+  top: 207px;
+  width: 365px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+  transform: translateX(-50%);
+}
+.textBlock {
+  color: #1e1e1e;
+  font-size: 15px;
+  font-weight: 500;
+  font-family: Noto Sans JP, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock2 {
+  margin-top: 0;
+  color: #1e1e1e;
+  font-size: 15px;
+  font-weight: 500;
+  font-family: Noto Sans JP, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock3 {
+  margin-top: 0;
+  color: #1e1e1e;
+  font-size: 15px;
+  font-weight: 500;
+  font-family: Noto Sans JP, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}

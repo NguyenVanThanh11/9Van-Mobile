@@ -1,0 +1,235 @@
+.root {
+  position: relative;
+  width: 369px;
+  height: 598px;
+  flex-direction: column;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.inputForm {
+  position: absolute;
+  left: 2.046%;
+  right: 2.3018%;
+  top: 0;
+  bottom: 0;
+  flex-direction: column;
+  gap: 8px;
+  padding: 0 5px;
+}
+.segmentedPicker {
+  height: 50px;
+  align-self: stretch;
+  align-items: center;
+  padding: 14px 24px;
+  outline: solid 1px #717bbc;
+  outline-offset: -1px;
+  border-radius: 15px;
+  background-color: #4e5ba6;
+}
+.banLuanVeHienTuongHutThuocLaIe {
+  color: #fff;
+  font-size: 13px;
+  line-height: 160%;
+  font-weight: bold;
+  font-family: Plus Jakarta Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+}
+.segmentedPicker2 {
+  height: 50px;
+  align-self: stretch;
+  align-items: center;
+  padding: 14px 24px;
+  outline: solid 1px #717bbc;
+  outline-offset: -1px;
+  border-radius: 15px;
+  background-color: #4e5ba6;
+}
+.banLuanVeHienTuongBaoLucHocUon {
+  color: #fff;
+  font-size: 13px;
+  line-height: 160%;
+  font-weight: bold;
+  font-family: Plus Jakarta Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  width: 270px;
+  height: min-content;
+  flex-direction: column;
+}
+.segmentedPicker3 {
+  height: 50px;
+  align-self: stretch;
+  align-items: center;
+  padding: 14px 24px;
+  outline: solid 1px #717bbc;
+  outline-offset: -1px;
+  border-radius: 15px;
+  background-color: #4e5ba6;
+}
+.banLuanVeHienTuongHocVetHocTuT {
+  color: #fff;
+  font-size: 13px;
+  line-height: 160%;
+  font-weight: bold;
+  font-family: Plus Jakarta Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+}
+.segmentedPicker4 {
+  height: 50px;
+  align-self: stretch;
+  align-items: center;
+  padding: 14px 24px;
+  outline: solid 1px #717bbc;
+  outline-offset: -1px;
+  border-radius: 15px;
+  background-color: #4e5ba6;
+}
+.banLuanVeHienTuongNghienGameOn {
+  color: #fff;
+  font-size: 13px;
+  line-height: 160%;
+  font-weight: bold;
+  font-family: Plus Jakarta Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+}
+.segmentedPicker5 {
+  height: 50px;
+  align-self: stretch;
+  align-items: center;
+  padding: 14px 24px;
+  outline: solid 1px #717bbc;
+  outline-offset: -1px;
+  border-radius: 15px;
+  background-color: #4e5ba6;
+}
+.traoOiVoiNguoiThanNhungMongMuo {
+  color: #fff;
+  font-size: 13px;
+  line-height: 160%;
+  font-weight: bold;
+  font-family: Plus Jakarta Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+}
+.button {
+  height: 50px;
+  align-self: stretch;
+  align-items: center;
+  padding: 14px 24px;
+  border-radius: 15px;
+  background-color: #4e5ba6;
+}
+.vietBaiLuanVeBanThan {
+  color: #fff;
+  font-size: 13px;
+  line-height: 160%;
+  font-weight: bold;
+  font-family: Plus Jakarta Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+}
+.segmentedPicker6 {
+  height: 50px;
+  align-self: stretch;
+  align-items: center;
+  padding: 14px 24px;
+  outline: solid 1px #717bbc;
+  outline-offset: -1px;
+  border-radius: 15px;
+  background-color: #4e5ba6;
+}
+.traoOiVoiNguoiThanNhungMongMuo2 {
+  color: #fff;
+  font-size: 13px;
+  line-height: 160%;
+  font-weight: bold;
+  font-family: Plus Jakarta Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+}
+.segmentedPicker7 {
+  height: 50px;
+  align-self: stretch;
+  align-items: center;
+  padding: 14px 24px;
+  outline: solid 1px #717bbc;
+  outline-offset: -1px;
+  border-radius: 15px;
+  background-color: #4e5ba6;
+}
+.traoOiVoiNguoiThanNhungMongMuo3 {
+  color: #fff;
+  font-size: 13px;
+  line-height: 160%;
+  font-weight: bold;
+  font-family: Plus Jakarta Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+}
+.segmentedPicker8 {
+  height: 50px;
+  align-self: stretch;
+  align-items: center;
+  padding: 14px 24px;
+  outline: solid 1px #717bbc;
+  outline-offset: -1px;
+  border-radius: 15px;
+  background-color: #4e5ba6;
+}
+.traoOiVoiNguoiThanNhungMongMuo4 {
+  color: #fff;
+  font-size: 13px;
+  line-height: 160%;
+  font-weight: bold;
+  font-family: Plus Jakarta Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+}
+.segmentedPicker9 {
+  height: 50px;
+  align-self: stretch;
+  align-items: center;
+  padding: 14px 24px;
+  outline: solid 1px #717bbc;
+  outline-offset: -1px;
+  border-radius: 15px;
+  background-color: #4e5ba6;
+}
+.traoOiVoiNguoiThanNhungMongMuo5 {
+  color: #fff;
+  font-size: 13px;
+  line-height: 160%;
+  font-weight: bold;
+  font-family: Plus Jakarta Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+}

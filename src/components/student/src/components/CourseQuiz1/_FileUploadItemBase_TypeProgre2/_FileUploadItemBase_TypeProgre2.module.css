@@ -1,0 +1,70 @@
+.loadingIndicator.loadingIndicator {
+  right: 16px;
+  left: initial;
+  width: 32px;
+}
+.root {
+  position: relative;
+  width: 512px;
+  height: 72px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+  padding: 16px;
+  outline: solid 1px #eaecf0;
+  outline-offset: -1px;
+  border-radius: 12px;
+  background-color: #fff;
+  overflow: hidden;
+}
+.progressFill {
+  position: absolute;
+  left: 0;
+  right: 29.9611%;
+  top: 0;
+  bottom: 0;
+  flex-direction: column;
+  background-color: #f9fafb;
+  overflow: hidden;
+}
+.content {
+  position: absolute;
+  left: 16px;
+  right: 56px;
+  top: 16px;
+  height: min-content;
+  flex: 1;
+  align-items: flex-start;
+  gap: 16px;
+}
+.content2 {
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+}
+.textAndSupportingText {
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.text {
+  color: #344054;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 500;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.supportingText {
+  color: #475467;
+  font-size: 14px;
+  line-height: 20px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}

@@ -1,0 +1,12 @@
+.root {
+  position: absolute;
+  left: 146px;
+  top: 64px;
+  width: 16px;
+  height: 16px;
+  flex-direction: column;
+  outline: solid 1.5px #fff;
+  border-radius: 8px;
+  background-color: #12b76a;
+  overflow: hidden;
+}

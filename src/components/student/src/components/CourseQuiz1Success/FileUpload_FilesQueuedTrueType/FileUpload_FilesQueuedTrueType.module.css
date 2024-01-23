@@ -1,0 +1,73 @@
+._FileUploadBase._FileUploadBase {
+  width: initial;
+  align-self: stretch;
+}
+._FileUploadItemBase._FileUploadItemBase {
+  width: initial;
+  align-self: stretch;
+}
+._FileUploadItemBase2._FileUploadItemBase2 {
+  width: initial;
+  align-self: stretch;
+}
+.text {
+  color: #344054;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 500;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.supportingText {
+  color: #475467;
+  font-size: 14px;
+  line-height: 20px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+._FileUploadItemBase3._FileUploadItemBase3 {
+  width: initial;
+  align-self: stretch;
+}
+.text2 {
+  color: #344054;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 500;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.supportingText2 {
+  color: #475467;
+  font-size: 14px;
+  line-height: 20px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.root {
+  position: absolute;
+  left: 966px;
+  top: 484px;
+  width: 512px;
+  height: min-content;
+  flex-direction: column;
+  gap: 16px;
+}
+.fileQueue {
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+  gap: 12px;
+}

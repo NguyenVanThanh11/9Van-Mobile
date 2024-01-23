@@ -1,0 +1,42 @@
+.avatar.avatar {
+  width: 16px;
+  height: 16px;
+  border-radius: 8px;
+  background-image:/* webpackIgnore: true */ url('/assets/avatar.jpeg');
+}
+._TagXClose._TagXClose {
+  z-index: 0;
+}
+.root {
+  width: min-content;
+  height: min-content;
+  justify-content: center;
+  align-items: center;
+  gap: 3px;
+  padding: 2px 4px 2px 5px;
+  outline: solid 1px #d0d5dd;
+  outline-offset: -1px;
+  border-radius: 6px;
+  background-color: #fff;
+}
+.content {
+  z-index: 0;
+  width: min-content;
+  height: min-content;
+  align-items: center;
+  gap: 5px;
+}
+.text {
+  color: #344054;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 500;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}

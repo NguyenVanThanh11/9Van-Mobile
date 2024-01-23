@@ -1,0 +1,18 @@
+.placeholder.placeholder {
+  width: 20px;
+  height: 20px;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.root {
+  position: absolute;
+  left: 16px;
+  top: 832px;
+  width: min-content;
+  height: min-content;
+  padding: 10px 12px;
+  background-color: #fff;
+  box-shadow: 1px 0px 0px #d0d5dd, inset -1px 0px 0px #d0d5dd;
+}

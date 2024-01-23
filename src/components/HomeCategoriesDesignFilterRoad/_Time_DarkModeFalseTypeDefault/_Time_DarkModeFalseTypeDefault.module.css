@@ -1,0 +1,27 @@
+.root {
+  position: absolute;
+  left: 32px;
+  top: 32px;
+  width: 54px;
+  height: 21px;
+  flex-direction: column;
+  align-items: flex-start;
+  border-radius: 24px;
+}
+._941 {
+  color: #000;
+  font-size: 15px;
+  line-height: 20px;
+  font-weight: 600;
+  font-family: SF Pro Text, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.5px;
+  position: absolute;
+  left: 0;
+  top: 1px;
+  width: 54px;
+  height: 20px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}

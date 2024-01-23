@@ -1,0 +1,67 @@
+.root {
+  width: 343px;
+  height: min-content;
+  padding: 16px;
+  outline: solid 1px #eaecf0;
+  outline-offset: -1px;
+  border-radius: 12px;
+  background-color: #fff;
+}
+.content {
+  z-index: 0;
+  height: min-content;
+  flex: 1;
+  align-self: flex-start;
+  align-items: flex-start;
+  gap: 8px;
+}
+.input {
+  width: min-content;
+  height: min-content;
+  padding: 2px 0 0;
+}
+.textAndSupportingText {
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.textAndSubtext {
+  width: min-content;
+  height: min-content;
+  align-items: flex-start;
+  gap: 4px;
+}
+.text {
+  color: #344054;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 500;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.subtext {
+  color: #475467;
+  font-size: 14px;
+  line-height: 20px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.includesUpTo10Users20GBIndivid {
+  color: #475467;
+  font-size: 14px;
+  line-height: 20px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}

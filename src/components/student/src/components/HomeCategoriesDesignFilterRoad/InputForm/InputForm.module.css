@@ -1,0 +1,238 @@
+.slider.slider {
+  position: relative;
+  top: initial;
+  left: initial;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.slider2.slider2 {
+  position: relative;
+  top: initial;
+  left: initial;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.slider3.slider3 {
+  position: relative;
+  top: initial;
+  left: initial;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.slider4.slider4 {
+  position: relative;
+  top: initial;
+  left: initial;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.slider5.slider5 {
+  position: relative;
+  top: initial;
+  left: initial;
+}
+.icon5 {
+  width: 100%;
+  height: 100%;
+}
+.root {
+  width: 428px;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 0 30px;
+  overflow: hidden;
+}
+.paragraphContainer {
+  width: 368px;
+  height: min-content;
+  align-items: flex-start;
+  gap: 7px;
+}
+.lyThuyet {
+  color: #a5a5a5;
+  font-size: 13px;
+  line-height: 160%;
+  font-weight: bold;
+  font-family: Plus Jakarta Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._10Chuong {
+  color: #a5a5a5;
+  font-size: 13px;
+  line-height: 160%;
+  font-weight: bold;
+  font-family: Plus Jakarta Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+}
+.segmentedPicker {
+  width: 368px;
+  height: min-content;
+  align-items: center;
+  gap: 16px;
+  padding: 14px 24px;
+  outline: solid 1px #bcbcbc;
+  outline-offset: -1px;
+  border-radius: 15px;
+  background-color: #fff;
+}
+.switch {
+  z-index: 0;
+  width: min-content;
+  height: min-content;
+  padding: 12px;
+  border-radius: 50px;
+  background-color: #b3b8db;
+}
+.chuong1ToiVaCacBan {
+  color: #4b4b4b;
+  font-size: 13px;
+  line-height: 160%;
+  font-weight: 500;
+  font-family: Plus Jakarta Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+}
+.segmentedPicker2 {
+  width: 368px;
+  height: min-content;
+  align-items: center;
+  gap: 16px;
+  padding: 14px 24px;
+  outline: solid 1px #bcbcbc;
+  outline-offset: -1px;
+  border-radius: 15px;
+  background-color: #fff;
+}
+.switch2 {
+  z-index: 0;
+  width: min-content;
+  height: min-content;
+  padding: 12px;
+  border-radius: 50px;
+  background-color: #b3b8db;
+}
+.chuong2GoCuaTraiTim {
+  color: #4b4b4b;
+  font-size: 13px;
+  line-height: 160%;
+  font-weight: 500;
+  font-family: Plus Jakarta Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+}
+.segmentedPicker3 {
+  width: 368px;
+  height: min-content;
+  align-items: center;
+  gap: 16px;
+  padding: 14px 24px;
+  outline: solid 1px #bcbcbc;
+  outline-offset: -1px;
+  border-radius: 15px;
+  background-color: #fff;
+}
+.switch3 {
+  z-index: 0;
+  width: min-content;
+  height: min-content;
+  padding: 12px;
+  border-radius: 50px;
+  background-color: #b3b8db;
+}
+.chuong3YeuThuongVaChiaSe {
+  color: #4b4b4b;
+  font-size: 13px;
+  line-height: 160%;
+  font-weight: 500;
+  font-family: Plus Jakarta Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+}
+.segmentedPicker4 {
+  width: 368px;
+  height: min-content;
+  align-items: center;
+  gap: 16px;
+  padding: 14px 24px;
+  outline: solid 1px #bcbcbc;
+  outline-offset: -1px;
+  border-radius: 15px;
+  background-color: #fff;
+}
+.switch4 {
+  z-index: 0;
+  width: min-content;
+  height: min-content;
+  padding: 12px;
+  border-radius: 50px;
+  background-color: #b3b8db;
+}
+.chuong4QueHuongYeuDau {
+  color: #4b4b4b;
+  font-size: 13px;
+  line-height: 160%;
+  font-weight: 500;
+  font-family: Plus Jakarta Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+}
+.segmentedPicker5 {
+  width: 368px;
+  height: min-content;
+  align-items: center;
+  gap: 16px;
+  padding: 14px 24px;
+  outline: solid 1px #bcbcbc;
+  outline-offset: -1px;
+  border-radius: 15px;
+  background-color: #fff;
+}
+.switch5 {
+  z-index: 0;
+  width: min-content;
+  height: min-content;
+  padding: 12px;
+  border-radius: 50px;
+  background-color: #b3b8db;
+}
+.chuong5TheGioiCoTich {
+  color: #4b4b4b;
+  font-size: 13px;
+  line-height: 160%;
+  font-weight: 500;
+  font-family: Plus Jakarta Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+}
